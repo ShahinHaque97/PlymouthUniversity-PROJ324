@@ -1,0 +1,16 @@
+Designator,Value,Package,Mid X,Mid Y,Rotation,Layer
+C5,22p,C_0603_1608Metric,237.8,-49.1,90,top
+C6,22p,C_0603_1608Metric,244.2,-49.15,-90,top
+C7,22p,C_0603_1608Metric,184.025,-60.4,180,top
+C8,22p,C_0603_1608Metric,179.6,-64.225,90,top
+C9,22p,C_0603_1608Metric,153.925,-63.9,180,top
+C10,22p,C_0603_1608Metric,150.8,-67.725,90,top
+J1,USB_B_Micro,USB_Micro-B_Molex-105017-0001,212.01,-82.43,270,top
+R7,47,R_0603_1608Metric,240.975,-46.3,180,top
+R8,47,R_0603_1608Metric,184.075,-69.3,0,top
+R9,47,R_0603_1608Metric,158.3,-67.825,90,top
+R10,47,R_0805_2012Metric,152.3875,-58.4,0,top
+SW1,SW_SPST,SW_SPST_B3S-1000,153.7,-51.3,-90,top
+Y1,16Mhz,Crystal_SMD_3225-4Pin_3.2x2.5mm,240.9,-49.45,0,top
+Y2,16Mhz,Crystal_SMD_3225-4Pin_3.2x2.5mm,184,-63.95,180,top
+Y3,16Mhz,Crystal_SMD_3225-4Pin_3.2x2.5mm,154,-67.75,180,top
